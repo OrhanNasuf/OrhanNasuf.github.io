@@ -1,0 +1,514 @@
+[
+    {
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },
+    {
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },{
+        "question": "Is this a question?",
+        "timeLimit": 15000,
+        "imgUrl": "not-a-URL",
+        "choices": [
+            {
+                "answer": "No",
+                "responses": [
+                    "Obviously wrong!"
+                ]
+            },
+            {
+                "answer": "Yes",
+                "correct": true,
+                "points": 100,
+                "responses": [
+                    "Yes, it is indeed!"
+                ]
+            },
+            {
+                "answer": "Maybe",
+                "pityPrize": true,
+                "points": 50,
+                "responses": [
+                    "Fair enough..."
+                ]
+            },
+            {
+                "answer": "I don't know",
+                "responses": [
+                    "How could you not know?"
+                ]
+            }
+        ]
+    },
+]
